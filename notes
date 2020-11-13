@@ -1,0 +1,12 @@
+1. build cli
+2. welcome user, prompy to either select a list, or exit
+3. if thy select list, print the list
+
+4. they can select by name to print details of selection
+5. if the select exit, goodbye exit program
+
+3 classes
+
+CLI - what communicates with my user
+project decision- where objects are created and stored for user display
+API - bring in external, consume api here, instantiate my objects
